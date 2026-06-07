@@ -6,10 +6,8 @@
 
 ```
 crypto/
-├── prompt.txt                  题目原文
-├── 作品设计报告格式.docx         报告模板
+├── 基于 NIST STS 的伪随机数统计分布测评与蒙特卡罗应用实验报告.pdf         实验报告
 ├── README.md                   本文件
-├── REPORT.md                   大作业设计报告 (Markdown 版)
 ├── report.txt                  程序运行时输出的纯文本报告
 └── src/
     ├── Main.java               主程序入口
